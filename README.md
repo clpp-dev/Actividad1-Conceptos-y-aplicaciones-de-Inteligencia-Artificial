@@ -4,6 +4,7 @@ Actividad 1 - Conceptos y aplicaciones de Inteligencia Artificial
 ## Integrantes de grupo
 - Santiago Tobar Useche
 - Cristian Leandro Pérez Peláez
+- Fecha: 14-03-2026
 
 ## Curso
 - Inteligencia artificial (JOAQUIN SANCHEZ 23022026_C1_202631)
