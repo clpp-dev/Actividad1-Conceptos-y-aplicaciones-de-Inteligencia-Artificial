@@ -54,7 +54,7 @@ Esto instalará:
 - **NumPy**: Para cálculos numéricos y operaciones con matrices
 - **Matplotlib**: Para crear visualizaciones y gráficas
 
-## Ejecución del Programa
+## 4. Ejecución del Programa
 
 **Para ejecutar el programa, usa el siguiente comando:**
 
